@@ -1,2 +1,2 @@
 Tämä on testitiedosto, tarkoitus treenata Magitin käyttöä.
-Muutos tähän.
+Muutos tähän. Uusi muutos. Lisää.
